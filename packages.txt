@@ -1,2 +1,2 @@
-fonts-dejavu
 fonts-liberation
+fonts-dejavu-core
